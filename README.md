@@ -1,5 +1,5 @@
 # end-to-end-medical-document-pipeline
-Digitizing unstructured medical records—such as handwritten prescriptions and printed Complete Blood Count (CBC) laboratory reports—is critical for reducing medication errors, accelerating Electronic Health Record (EHR) integration, and improving patient comprehension[cite: 2]. 
+Digitizing unstructured medical records, such as handwritten prescriptions and printed Complete Blood Count (CBC) laboratory reports—is critical for reducing medication errors, accelerating Electronic Health Record (EHR) integration, and improving patient comprehension[cite: 2]. 
 
 This repository provides a **modular four-stage pipeline** that automatically classifies medical documents, segments spatial layouts, extracts and structures clinical data into standardized JSON, and translates medical instructions into Indian languages[cite: 2, 5]:
 
